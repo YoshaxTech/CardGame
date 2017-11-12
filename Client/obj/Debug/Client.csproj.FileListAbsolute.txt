@@ -1,0 +1,8 @@
+C:\Users\49489\source\repos\CardsGame\Client\bin\Debug\Client.exe.config
+C:\Users\49489\source\repos\CardsGame\Client\bin\Debug\Client.exe
+C:\Users\49489\source\repos\CardsGame\Client\bin\Debug\Client.pdb
+C:\Users\49489\source\repos\CardsGame\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\49489\source\repos\CardsGame\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\49489\source\repos\CardsGame\Client\obj\Debug\Client.exe
+C:\Users\49489\source\repos\CardsGame\Client\obj\Debug\Client.pdb
+C:\Users\49489\source\repos\CardsGame\Client\bin\Debug\NetworkCommsDotNet.dll
