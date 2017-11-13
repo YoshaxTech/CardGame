@@ -6,3 +6,16 @@ C:\Users\49489\source\repos\CardsGame\Client\obj\Debug\Client.csproj.CoreCompile
 C:\Users\49489\source\repos\CardsGame\Client\obj\Debug\Client.exe
 C:\Users\49489\source\repos\CardsGame\Client\obj\Debug\Client.pdb
 C:\Users\49489\source\repos\CardsGame\Client\bin\Debug\NetworkCommsDotNet.dll
+C:\Users\Yoshax\Desktop\epitech\CardGame-master\CardGame-master\CardsGame\Client\bin\Debug\Client.exe.config
+C:\Users\Yoshax\Desktop\epitech\CardGame-master\CardGame-master\CardsGame\Client\bin\Debug\Client.exe
+C:\Users\Yoshax\Desktop\epitech\CardGame-master\CardGame-master\CardsGame\Client\bin\Debug\Client.pdb
+C:\Users\Yoshax\Desktop\epitech\CardGame-master\CardGame-master\CardsGame\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Yoshax\Desktop\epitech\CardGame-master\CardGame-master\CardsGame\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Yoshax\Desktop\epitech\CardGame-master\CardGame-master\CardsGame\Client\obj\Debug\Client.exe
+C:\Users\Yoshax\Desktop\epitech\CardGame-master\CardGame-master\CardsGame\Client\obj\Debug\Client.pdb
+C:\Users\Yoshax\Desktop\epitech\CardGame-master\CardGame-master\CardsGame\Client\bin\Debug\CardsGame.exe
+C:\Users\Yoshax\Desktop\epitech\CardGame-master\CardGame-master\CardsGame\Client\bin\Debug\NetworkCommsDotNetComplete.dll
+C:\Users\Yoshax\Desktop\epitech\CardGame-master\CardGame-master\CardsGame\Client\bin\Debug\CardsGame.pdb
+C:\Users\Yoshax\Desktop\epitech\CardGame-master\CardGame-master\CardsGame\Client\bin\Debug\CardsGame.exe.config
+C:\Users\Yoshax\Desktop\epitech\CardGame-master\CardGame-master\CardsGame\Client\bin\Debug\NetworkCommsDotNetComplete.pdb
+C:\Users\Yoshax\Desktop\epitech\CardGame-master\CardGame-master\CardsGame\Client\bin\Debug\NetworkCommsDotNetComplete.xml
